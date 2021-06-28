@@ -27,3 +27,6 @@ jobs:
       #Shell commit init
       - name: Show add shellv2 message
         run: echo shellv2-installer running | echo shellv2 installed
+      #Scorepoint action
+      - name: Add actions/github.git
+        run: echo added github as git file in actions
