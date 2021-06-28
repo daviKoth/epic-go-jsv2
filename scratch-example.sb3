@@ -1,0 +1,4 @@
+after(2, "seconds", () => {
+  sprite1.show()
+})
+rgb(750, 140, 10)
